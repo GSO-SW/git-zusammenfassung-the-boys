@@ -18,7 +18,25 @@ Schon fertig? Beantworten Sie diese Fragen:
 
 ## git-Befehle
 - `git clone <url>` kopiert ein vorhandes Repository von einer url auf die Festplatte
-- `git push` ...
-- `git pull` ...
-
+- `git push` 		
+- `git pull` 		
+- `git init`		
+- `git add`			
+- `git mv`			
+- `git restore`		
+- `git rm`			
+- `git bisect`		
+- `git diff`
+- `git grep`
+- `git log`
+- `git show`
+- `git status`
+- `git branch`
+- `git commit`
+- `git merge`
+- `git rebase`
+- `git reset`
+- `git switch`
+- `git tag`
+- `git fetch`
 
