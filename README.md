@@ -39,4 +39,6 @@ Schon fertig? Beantworten Sie diese Fragen:
 - `git switch`		Wechselt zwischen Branches oder erstellt einen neuen Branch und wechselt zu diesem.
 - `git tag`			Erstellt oder listet Tags auf, um bestimmte Commit-Versionen zu markieren.
 - `git fetch`		Holt die neuesten Informationen aus dem Remote-Repository, ohne die lokalen Dateien zu ändern.
+- `git config`		Mit config kann man die Daten wie Username und email festlegen die beim erstellen eines commits gespeichert werden
+- `git diff`		Mit diff kann man die änderungen der Datei sehen, also was neu dazugekommen ist und was entfernt wurde
 
